@@ -1,0 +1,16 @@
+Fuentes:
+Docker. Funcionalidad
+https://www.fayerwayer.com/2016/06/maquinas-virtuales-vs-contenedores-que-son-y-como-elegir-entre-estas-tecnologias/
+Definicion: Wikipedia.
+https://docs.docker.com/engine/examples/dotnetcore/
+Docker instalacion. 
+https://docs.docker.com/get-started/
+https://docs.docker.com/toolbox/toolbox_install_windows/
+https://docs.docker.com/docker-for-windows/install/
+https://stackoverflow.com/questions/42866013/docker-toolbox-localhost-not-working/42886035#42886035
+
+ASP.NET Core
+https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2
+
+DOTNET + DOCKER
+https://docs.microsoft.com/es-es/dotnet/core/docker/building-net-docker-images
